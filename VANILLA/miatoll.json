@@ -1,0 +1,18 @@
+{
+    "response": [
+        {
+            "device": "Redmi Note 9 Pro",
+            "codename": "miatoll",
+            "maintainer": "AFIF",
+            "datetime": 1746700131,
+            "filename": "HorizonDroid-v5.2-Supernova-VANILLA-miatoll-OFFICIAL-08052025.zip",
+            "md5": "23907f518a91c0b1076e99bfa0dfbbce",
+            "buildtype": "OFFICIAL",
+            "size": 1425959440,
+            "download": "https://7mh7pg.sharepoint.com/_layouts/15/download.aspx?share=EczKDQ2eCilHgj2drAsp4OcBqw1vhPimGghQvAqqgNgaew",
+            "version": "v5.2",
+            "support": "",
+            "changelogs": "https://github.com/HorizonV2/horizon_changelogs/blob/lineage-22.2/README.md"
+        }
+    ]
+}
