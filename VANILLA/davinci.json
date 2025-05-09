@@ -4,15 +4,17 @@
             "device": "Mi 9T",
             "codename": "davinci",
             "maintainer": "superxorn",
-            "datetime": 1746361554,
-            "filename": "HorizonDroid-v5.2-Supernova-VANILLA-davinci-OFFICIAL-04052025.zip",
-            "md5": "14df609745d26da2cca472ff0fcb6322",
+            "datetime": 1746815303,
+            "filename": "HorizonDroid-v5.3-Earth-VANILLA-davinci-OFFICIAL-09052025.zip",
+            "md5": "0aafb36fe040406810f6623784da58a4",
             "buildtype": "OFFICIAL",
-            "size": 1615611257,
-            "download": "https://sourceforge.net/projects/horizondroid/files/davinci/HorizonDroid-v5.2-Supernova-VANILLA-davinci-OFFICIAL-04052025.zip/download",
-            "version": "v5.2",
+            "size": 1615885915,
+            "download": "https://sourceforge.net/projects/horizondroid/files/davinci/HorizonDroid-v5.3-Earth-VANILLA-davinci-OFFICIAL-09052025.zip/download",
+            "version": "v5.3",
             "support": "https://t.me/superxornplayground",
             "changelogs": "https://github.com/HorizonV2/horizon_changelogs"
         }
     ]
 }
+
+
