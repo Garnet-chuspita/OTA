@@ -1,0 +1,18 @@
+{
+    "response": [
+        {
+            "device": "Poco X5 5G/Redmi Note 12 5G",
+            "codename": "stone",
+            "maintainer": "JARVIS",
+            "datetime": 1748364383,
+            "filename": "HorizonDroid-v5.3-Earth-GAPPS-stone-OFFICIAL-27052025.zip",
+            "md5": "a463ff4b8b76caa8fe421fd8bc1afd66",
+            "buildtype": "OFFICIAL",
+            "size": 1962981631,
+            "download": "https://pixeldrain.com/u/viRe8TZB",
+            "version": "v5.3",
+            "support": "https://t.me/dsidesupport",
+            "changelogs": "https://github.com/HorizonV2/horizon_changelogs"
+        }
+    ]
+}
